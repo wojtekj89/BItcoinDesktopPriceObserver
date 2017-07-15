@@ -1,2 +1,2 @@
-# Bitcoin-related-projects
-Simple desktop app following bitcoin price with alarm
+# BitcoinDesktopPriceObserver
+Simple desktop app following bitcoin prices with alarm
